@@ -13,6 +13,9 @@ https://github.com/AntonioDjou/Multiplayer-Racer
 + Educational Project to help children write better:
 https://github.com/AntonioDjou/AppMelhoriaEscrita
 
++ Lottery Game with High/Low betting:
+https://github.com/AntonioDjou/TicketTron
+
 #### <i>Other Projects:</i>
 
 + Tic Tac Toe:
@@ -21,8 +24,8 @@ https://github.com/AntonioDjou/TicTacToe
 + AI Bridge Game:
 https://github.com/AntonioDjou/AI-Bridge-game
 
-+ Lottery Game with High/Low betting:
-https://github.com/AntonioDjou/TicketTron
++ Spaceship 2D:
+https://github.com/AntonioDjou/Spaceship-2D
 
 + Microphone capturing:
 https://github.com/AntonioDjou/Microphone-capture
