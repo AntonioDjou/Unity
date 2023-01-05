@@ -16,11 +16,15 @@
 + Educational Project to help children write better:
 <br>https://github.com/AntonioDjou/AppMelhoriaEscrita</br>
 <a href="https://github.com/AntonioDjou/-AI-Genetic-Algorithm"><img src="https://i.ibb.co/MhJhGg8/Game.png" img align="right" alt="Game" width=350 border="0"></a>
-+ Lottery Game with High/Low betting:
-<br>https://github.com/AntonioDjou/TicketTron</br>
++ VR Game:
+<br>https://github.com/AntonioDjou/VR-Game</br>
 
 + 2D Plataformer Like Mario with Pixel Art:
 <br>https://github.com/AntonioDjou/2d-Plataformer</br>
+
++ Lottery Game with High/Low betting:
+<br>https://github.com/AntonioDjou/TicketTron</br>
+
 
 #### <i>Other Projects:</i>
 
@@ -39,5 +43,5 @@
 + Alarm Clock:
 <br>https://github.com/AntonioDjou/Alarm-clock</br>
 
-<br> <a href="https://github.com/AntonioDjou/TicketTron"><img src="https://i.postimg.cc/wvrB1GWf/Ticket-Tron.jpg" alt="Game" border="0"> <a href="https://github.com/AntonioDjou/AppMelhoriaEscrita"><img src="https://user-images.githubusercontent.com/27375475/207313053-7e430b67-b908-49e3-87e8-6705961e2292.JPG" alt="Melhoria-escrita" width=395 border="0"></a> <a href="https://github.com/AntonioDjou/AI-Bridge-game"><img src="https://i.ibb.co/590MXGn/Game.jpg" alt="Game" width=550 border="0"> <a href="https://ibb.co/jfJ5dxS"><a href="https://ibb.co/mGQwf8m"><img src="https://i.ibb.co/Xbmgc89/3d-World.jpg" alt="3d-World" border="0"></a> <a href="https://github.com/AntonioDjou/Spaceship-2D"><img src="https://i.ibb.co/r7mKX4C/Main-Game-Paused.jpg" alt="Main-Game-Paused" border="0"></a> </br> 
+<br> <a href="https://github.com/AntonioDjou/TicketTron"><img src="https://i.postimg.cc/wvrB1GWf/Ticket-Tron.jpg" alt="Game" border="0"> <a href="https://github.com/AntonioDjou/AppMelhoriaEscrita"><img src="https://user-images.githubusercontent.com/27375475/207313053-7e430b67-b908-49e3-87e8-6705961e2292.JPG" alt="Melhoria-escrita" width=395 border="0"></a> <a href="https://github.com/AntonioDjou/AI-Bridge-game"><img src="https://i.ibb.co/590MXGn/Game.jpg" alt="Game" width=550 border="0"> <a href="https://ibb.co/XCL8g59"><img src="https://i.ibb.co/gR9VpWG/VR-Game.jpg" alt="VR-Game" border="0"></a><a href="https://ibb.co/jfJ5dxS"><a href="https://ibb.co/mGQwf8m"><img src="https://i.ibb.co/Xbmgc89/3d-World.jpg" alt="3d-World" border="0"></a> <a href="https://github.com/AntonioDjou/Spaceship-2D"><img src="https://i.ibb.co/r7mKX4C/Main-Game-Paused.jpg" alt="Main-Game-Paused" border="0"></a> </br> 
 
