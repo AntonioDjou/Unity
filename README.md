@@ -1,6 +1,9 @@
 ## GameDev portfolio
 ### Highlighted projects:
 <a href="https://github.com/AntonioDjou/SurvivalShooter-Unity"><img src="https://i.ibb.co/3cvvtx8/Game.jpg" img align="right" alt="Game" width=350 border="0"></a>
+
++ `Game Design:` https://github.com/AntonioDjou/Game-Design
+
 + Third Person Survival Shooter:
 <br>https://github.com/AntonioDjou/SurvivalShooter-Unity</br>
 
