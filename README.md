@@ -10,7 +10,7 @@
 + AI game with Genetic Algorithm:
 <br>https://github.com/AntonioDjou/-AI-Genetic-Algorithm</br>
 
-+ Multiplayer Racer up to 20 people simultaneously:
++ Multiplayer Racer up to 20 people simultaneously with <b>Photon</b>:
 <br>https://github.com/AntonioDjou/Multiplayer-Racer</br>
 
 + Educational Project to help children write better:
