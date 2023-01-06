@@ -2,7 +2,7 @@
 ### Highlighted projects:
 <a href="https://github.com/AntonioDjou/SurvivalShooter-Unity"><img src="https://i.ibb.co/3cvvtx8/Game.jpg" img align="right" alt="Game" width=350 border="0"></a>
 
-+ `Game Design:` https://github.com/AntonioDjou/Game-Design
++ `Game Designer Portfolio:` https://github.com/AntonioDjou/Game-Designer
 
 + Third Person Survival Shooter:
 <br>https://github.com/AntonioDjou/SurvivalShooter-Unity</br>
@@ -36,6 +36,9 @@
 
 + Spaceship 2D:
 <br>https://github.com/AntonioDjou/Spaceship-2D</br>
+
++ Educational Math Game to help children counting:
+<br>https://github.com/AntonioDjou/Educational-Math-Game</br>
 
 + Microphone capturing:
 <br>https://github.com/AntonioDjou/Microphone-capture</br>
