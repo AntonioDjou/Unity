@@ -32,7 +32,7 @@
  
 + AI Bridge Game:
 <br>https://github.com/AntonioDjou/AI-Bridge-game</br>
-<a href="https://github.com/AntonioDjou/2d-Plataformer"><img src="https://i.ibb.co/WfnR6RW/Mario-1.png" img align="right" width=250 alt="Mario-1" border="0"></a><a href="https://github.com/AntonioDjou/2d-Plataformer"><img src="https://i.ibb.co/B4QRTSc/Mario-Running1.png" img align="right" width=195 alt="Mario-Running1" border="0"></a>
+<a href="https://ibb.co/QnPjQKt"><img src="https://i.ibb.co/nf78mLt/Player-Shooting-Script.jpg" img align="right" alt="Player-Shooting-Script" width=400 border="0"></a>
 + Spaceship 2D:
 <br>https://github.com/AntonioDjou/Spaceship-2D</br>
 
@@ -48,15 +48,28 @@
 + `1-Page GDD:`
 <br><a href="https://github.com/AntonioDjou/Game-Designer"><img src="https://i.ibb.co/WP93hMF/Game-Design-Document-Of-Sky-And-Steel-2.png" alt="Game-Design-Document-Of-Sky-And-Steel-2" border="0"></a>
 + <b>Shader Graph Smoke</b> with and without `High Definition Render Pipeline:`
-<a href="https://github.com/AntonioDjou/Game-Designer/"><img src="https://i.ibb.co/vDBmRNg/Smoke-Effect.png" alt="Smoke-Effect" width=600 border="0"></a> 
+<a href="https://github.com/AntonioDjou/Game-Designer/"><img src="https://i.ibb.co/vDBmRNg/Smoke-Effect.png" alt="Smoke-Effect" width=600 border="0"></a>
+
+<a href="https://github.com/AntonioDjou/2d-Plataformer"><img src="https://i.ibb.co/B4QRTSc/Mario-Running1.png" width=195 alt="Mario-Running1" border="0"></a>
+<a href="https://github.com/AntonioDjou/2d-Plataformer"><img src="https://i.ibb.co/WfnR6RW/Mario-1.png" width=250 alt="Mario-1" border="0"></a>
+
 <a href="https://github.com/AntonioDjou/SurvivalShooter-Unity"><img src="https://i.ibb.co/3cvvtx8/Game.jpg" alt="Game" border="0"></a>
+
++ PlayerMovementScript 2D:
+<br> <a href="https://ibb.co/DRzqn6t"><img src="https://i.ibb.co/P6FS8bN/Player-Movement-Script.jpg" alt="Player-Movement-Script" border="0"></a> </br>
+
 <a href="https://github.com/AntonioDjou/TicketTron"><img src="https://i.postimg.cc/wvrB1GWf/Ticket-Tron.jpg" alt="Game" border="0"> 
 <a href="https://github.com/AntonioDjou/AppMelhoriaEscrita"><img src="https://user-images.githubusercontent.com/27375475/207313053-7e430b67-b908-49e3-87e8-6705961e2292.JPG" alt="Melhoria-escrita" width=395 border="0"></a> 
 + Farm Design:
 <br> <a href="https://github.com/AntonioDjou/Game-Designer"><img src="https://i.ibb.co/S32jxLX/Farm.jpg" alt="Farm" border="0"></a> </br>
 + Factory Design:
 <br><a href="https://github.com/AntonioDjou/Game-Designer"><img src="https://i.ibb.co/9YpwCNw/Factory-02.jpg" alt="Factory-02" border="0"></a> </br>
+
++ EnemyAttackScript:
+<br><a href="https://ibb.co/BPyxp58"><img src="https://i.ibb.co/H2tsSfm/Enemy-Attack-Script.jpg" alt="Enemy-Attack-Script" border="0"></a> </br>
+
 <a href="https://github.com/AntonioDjou/-AI-Genetic-Algorithm"><img src="https://i.ibb.co/MhJhGg8/Game.png" alt="Game" border="0"></a>
+
 <a href="https://github.com/AntonioDjou/AI-Bridge-game"><img src="https://i.ibb.co/590MXGn/Game.jpg" alt="Game" width=550 border="0">
 + First stage - Runner Part (Project Vortex design): 
 <br><a href="https://github.com/AntonioDjou/Vortex-Design"><img src="https://i.ibb.co/zFMh4FS/Level-1-Running.jpg" alt="Level-1-Running" border="0"></a></br>
@@ -64,6 +77,9 @@
 <br><a href="https://github.com/AntonioDjou/Vortex-Design"><img src="https://i.ibb.co/WB37j9D/Main-Menu.jpg" alt="Main-Menu" border="0"></a></br>
 + Wall enemy (Project Vortex design): 
 <br><a href="https://github.com/AntonioDjou/Vortex-Design"><img src="https://i.ibb.co/9b4X4RN/Robot1.jpg" alt="Robot1" border="0"></a> </br>
+
++EnemyHealthScript:
+<br> <a href="https://ibb.co/2hvY4Db"><img src="https://i.ibb.co/H4tp8WJ/Enemy-Health-Script.jpg" alt="Enemy-Health-Script" border="0"></a></br>
 
 <a href="https://ibb.co/jfJ5dxS"><a href="https://ibb.co/mGQwf8m"><img src="https://i.ibb.co/Xbmgc89/3d-World.jpg" alt="3d-World" border="0"></a>
 <a href="https://github.com/AntonioDjou/Spaceship-2D"><img src="https://i.ibb.co/r7mKX4C/Main-Game-Paused.jpg" alt="Main-Game-Paused" border="0"></a> </br>
@@ -78,3 +94,4 @@
 
 <a href="https://github.com/AntonioDjou/Multiplayer-Racer"><img src="https://i.ibb.co/KWbj4MN/Multiplayer-Racer.jpg" alt="Multiplayer-Racer" border="0"></a>
 <a href="https://github.com/AntonioDjou/TicTacToe"><img src="https://i.ibb.co/t81rvZX/Tic-tac-toe.jpg" alt="Tic-tac-toe" border="0"></a>
+<a href="https://ibb.co/GsVQhyf"><img src="https://i.ibb.co/Xyzxw1f/Game-Controller.jpg" alt="Game-Controller" border="0"></a>
