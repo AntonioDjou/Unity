@@ -1,7 +1,6 @@
 ## GameDev portfolio
 ### Highlighted projects:
-<a href="https://github.com/AntonioDjou/SurvivalShooter-Unity"><img src="https://i.ibb.co/3cvvtx8/Game.jpg" img align="right" alt="Game" width=400 border="0"></a>
-
+<a href="https://github.com/AntonioDjou/VR-Game"><img src="https://i.ibb.co/gR9VpWG/VR-Game.jpg" img align="right" alt="VR-Game" width=400 border="0"></a>
 + `Game Designer Portfolio:` https://github.com/AntonioDjou/Game-Designer
 
 + Third Person Survival Shooter:
@@ -14,11 +13,11 @@
 <br>https://github.com/AntonioDjou/Multiplayer-Racer</br>
 
 + Educational Project to help children write better:
-<a href="https://ibb.co/XCL8g59"><img src="https://i.ibb.co/gR9VpWG/VR-Game.jpg" img align="right" alt="VR-Game" width=400 border="0"></a>
 <br>https://github.com/AntonioDjou/AppMelhoriaEscrita</br>
+
 + VR Game:
 <br>https://github.com/AntonioDjou/VR-Game</br>
-
+<a href="https://github.com/AntonioDjou/TicketTron"><img src="https://i.ibb.co/yYnZjr0/Animator-Animation.jpg" img align="right" alt="Animator-Animation" width = 400 border="0"></a>
 + 2D Plataformer Like Mario with Pixel Art:
 <br>https://github.com/AntonioDjou/2d-Plataformer</br>
 
@@ -30,10 +29,10 @@
 
 + Tic Tac Toe:
 <br>https://github.com/AntonioDjou/TicTacToe</br>
-<a href="https://github.com/AntonioDjou/2d-Plataformer"><img src="https://i.ibb.co/WfnR6RW/Mario-1.png" img align="right" width=250 alt="Mario-1" border="0"></a><a href="https://github.com/AntonioDjou/2d-Plataformer"><img src="https://i.ibb.co/B4QRTSc/Mario-Running1.png" img align="right" width=195 alt="Mario-Running1" border="0"></a> 
+ 
 + AI Bridge Game:
 <br>https://github.com/AntonioDjou/AI-Bridge-game</br>
-
+<a href="https://github.com/AntonioDjou/2d-Plataformer"><img src="https://i.ibb.co/WfnR6RW/Mario-1.png" img align="right" width=250 alt="Mario-1" border="0"></a><a href="https://github.com/AntonioDjou/2d-Plataformer"><img src="https://i.ibb.co/B4QRTSc/Mario-Running1.png" img align="right" width=195 alt="Mario-Running1" border="0"></a>
 + Spaceship 2D:
 <br>https://github.com/AntonioDjou/Spaceship-2D</br>
 
@@ -47,13 +46,35 @@
 <br>https://github.com/AntonioDjou/Alarm-clock</br>
 
 + `1-Page GDD:`
-<br><a href="https://ibb.co/MGThvtp"><img src="https://i.ibb.co/WP93hMF/Game-Design-Document-Of-Sky-And-Steel-2.png" alt="Game-Design-Document-Of-Sky-And-Steel-2" border="0"></a>
+<br><a href="https://github.com/AntonioDjou/Game-Designer"><img src="https://i.ibb.co/WP93hMF/Game-Design-Document-Of-Sky-And-Steel-2.png" alt="Game-Design-Document-Of-Sky-And-Steel-2" border="0"></a>
 + <b>Shader Graph Smoke</b> with and without `High Definition Render Pipeline:`
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/vDBmRNg/Smoke-Effect.png" alt="Smoke-Effect" width=600 border="0"></a> 
+<a href="https://github.com/AntonioDjou/Game-Designer/"><img src="https://i.ibb.co/vDBmRNg/Smoke-Effect.png" alt="Smoke-Effect" width=600 border="0"></a> 
+<a href="https://github.com/AntonioDjou/SurvivalShooter-Unity"><img src="https://i.ibb.co/3cvvtx8/Game.jpg" alt="Game" border="0"></a>
 <a href="https://github.com/AntonioDjou/TicketTron"><img src="https://i.postimg.cc/wvrB1GWf/Ticket-Tron.jpg" alt="Game" border="0"> 
 <a href="https://github.com/AntonioDjou/AppMelhoriaEscrita"><img src="https://user-images.githubusercontent.com/27375475/207313053-7e430b67-b908-49e3-87e8-6705961e2292.JPG" alt="Melhoria-escrita" width=395 border="0"></a> 
++ Farm Design:
+<br> <a href="https://github.com/AntonioDjou/Game-Designer"><img src="https://i.ibb.co/S32jxLX/Farm.jpg" alt="Farm" border="0"></a> </br>
++ Factory Design:
+<br><a href="https://github.com/AntonioDjou/Game-Designer"><img src="https://i.ibb.co/9YpwCNw/Factory-02.jpg" alt="Factory-02" border="0"></a> </br>
 <a href="https://github.com/AntonioDjou/-AI-Genetic-Algorithm"><img src="https://i.ibb.co/MhJhGg8/Game.png" alt="Game" border="0"></a>
 <a href="https://github.com/AntonioDjou/AI-Bridge-game"><img src="https://i.ibb.co/590MXGn/Game.jpg" alt="Game" width=550 border="0">
-<a href="https://ibb.co/jfJ5dxS"><a href="https://ibb.co/mGQwf8m"><img src="https://i.ibb.co/Xbmgc89/3d-World.jpg" alt="3d-World" border="0"></a>
-<a href="https://github.com/AntonioDjou/Spaceship-2D"><img src="https://i.ibb.co/r7mKX4C/Main-Game-Paused.jpg" alt="Main-Game-Paused" border="0"></a> </br> 
++ First stage - Runner Part (Project Vortex design): 
+<br><a href="https://github.com/AntonioDjou/Vortex-Design"><img src="https://i.ibb.co/zFMh4FS/Level-1-Running.jpg" alt="Level-1-Running" border="0"></a></br>
++ Main Menu (Project Vortex design):
+<br><a href="https://github.com/AntonioDjou/Vortex-Design"><img src="https://i.ibb.co/WB37j9D/Main-Menu.jpg" alt="Main-Menu" border="0"></a></br>
++ Wall enemy (Project Vortex design): 
+<br><a href="https://github.com/AntonioDjou/Vortex-Design"><img src="https://i.ibb.co/9b4X4RN/Robot1.jpg" alt="Robot1" border="0"></a> </br>
 
+<a href="https://ibb.co/jfJ5dxS"><a href="https://ibb.co/mGQwf8m"><img src="https://i.ibb.co/Xbmgc89/3d-World.jpg" alt="3d-World" border="0"></a>
+<a href="https://github.com/AntonioDjou/Spaceship-2D"><img src="https://i.ibb.co/r7mKX4C/Main-Game-Paused.jpg" alt="Main-Game-Paused" border="0"></a> </br>
+
++ AR Game (design):
+<br><a href="https://github.com/AntonioDjou/AR-Game"><img src="https://i.ibb.co/Mc3FdMS/Game01.jpg" alt="Game01" border="0"></a></br>
+
++ Game Mode 2: Avoid obstacles and enemies! (design)
+<br><a href="https://github.com/AntonioDjou/AR-Game"><img src="https://i.ibb.co/XxC6v7s/GameB-1.jpg" alt="GameB-1" border="0"></a></br>
+
++ `Game Designer Portfolio:` https://github.com/AntonioDjou/Game-Designer
+
+<a href="https://github.com/AntonioDjou/Multiplayer-Racer"><img src="https://i.ibb.co/KWbj4MN/Multiplayer-Racer.jpg" alt="Multiplayer-Racer" border="0"></a>
+<a href="https://github.com/AntonioDjou/TicTacToe"><img src="https://i.ibb.co/t81rvZX/Tic-tac-toe.jpg" alt="Tic-tac-toe" border="0"></a>
