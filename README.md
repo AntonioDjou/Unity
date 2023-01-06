@@ -97,3 +97,5 @@
 <a href="https://ibb.co/GsVQhyf"><img src="https://i.ibb.co/Xyzxw1f/Game-Controller.jpg" alt="Game-Controller" border="0"></a>
 
 <a href="https://ibb.co/0qh2bxw"><img src="https://i.ibb.co/Y2pQsxr/Of-Sky-and-Steel-2.jpg" alt="Of-Sky-and-Steel-2" border="0"></a></br>
++ Production timeline: Expected x Reality
+<a href="https://ibb.co/CWqkcwt"><img src="https://i.ibb.co/4Jc6qFf/Cronograma.png" alt="Cronograma" border="0"></a></br>
