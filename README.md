@@ -50,7 +50,7 @@
 + <b>Shader Graph Smoke</b> with and without `High Definition Render Pipeline:`
 <a href="https://github.com/AntonioDjou/Game-Designer/"><img src="https://i.ibb.co/vDBmRNg/Smoke-Effect.png" alt="Smoke-Effect" width=600 border="0"></a>
 
-<a href="https://github.com/AntonioDjou/Game-Designer"><img src="https://imgur.com/Hch3PRX" width=500 alt="Animation-woods" border="0"></a>
+<a href="https://github.com/AntonioDjou/Game-Designer"><img src="https://media.giphy.com/media/P9TFnUzd6XRmYArbXQ/giphy.gif" width=700 alt="Animation-woods" border="0"></a>
 
 <a href="https://github.com/AntonioDjou/2d-Plataformer"><img src="https://i.ibb.co/B4QRTSc/Mario-Running1.png" width=195 alt="Mario-Running1" border="0"></a>
 <a href="https://github.com/AntonioDjou/2d-Plataformer"><img src="https://i.ibb.co/WfnR6RW/Mario-1.png" width=250 alt="Mario-1" border="0"></a>
