@@ -3,6 +3,9 @@
 <a href="https://github.com/AntonioDjou/VR-Game"><img src="https://i.ibb.co/gR9VpWG/VR-Game.jpg" img align="right" alt="VR-Game" width=400 border="0"></a>
 + `Game Designer Portfolio:` https://github.com/AntonioDjou/Game-Designer
 
++ Battleship Naval Game: 
+<br>https://github.com/AntonioDjou/MKS_Challenge-AntonioPaz
+
 + Third Person Survival Shooter:
 <br>https://github.com/AntonioDjou/SurvivalShooter-Unity</br>
 
